@@ -1,6 +1,3 @@
-## Descripción
-Este proyecto es un ejemplo básico de cómo configurar un repositorio en GitHub. Ideal para principiantes que desean aprender sobre control de versiones y colaboración.
-
 ## Tecnologías Utilizadas
 - **Python**: Lenguaje de programación principal.
 - **Docker**: Para contenerizar la aplicación y asegurar la consistencia en diferentes entornos.
